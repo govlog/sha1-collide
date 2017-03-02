@@ -1,0 +1,4 @@
+(master)-> sha1sum out-christopher-*
+5cbdfdea2423b7f0258bba45e99e39ba51aff8a9  out-christopher-1.pdf
+5cbdfdea2423b7f0258bba45e99e39ba51aff8a9  out-christopher-2.pdf
+
